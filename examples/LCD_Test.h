@@ -9,11 +9,11 @@
 * | Info        :   
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
-# of this software and associated documnetation files (the "Software"), to deal
+# of this software and associated documentation files (the "Software"), to deal
 # in the Software without restriction, including without limitation the rights
 # to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 # copies of the Software, and to permit persons to  whom the Software is
-# furished to do so, subject to the following conditions:
+# furbished to do so, subject to the following conditions:
 #
 # The above copyright notice and this permission notice shall be included in
 # all copies or substantial portions of the Software.
@@ -36,17 +36,6 @@
 #include "Debug.h"
 #include <stdlib.h> // malloc() free()
 
-#include "Infrared.h"
-
-int OLED_1in3_C_test(void);
-int OLED_2in23_test(void); 
-
 int LCD_0in96_test(void);
-int LCD_1in14_test(void);
-int LCD_1in14_V2_test(void);
-int LCD_1in44_test(void);
-void LCD_1IN54_test(void);
-int LCD_1in8_test(void);
-int LCD_1in3_test(void);
-int LCD_2in_test(void);
+
 #endif
