@@ -1,0 +1,39 @@
+# Ignore build directories
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+/install_manifest.txt
+/compile_commands.json
+
+# Ignore generated files
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+*.app
+*.i
+*.ii
+*.s
+*.asm
+*.d
+*.dSYM/
+*.DS_Store
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+*.ninja
+*.ninja_deps
+*.ninja_log
+
+# Ignore IDE specific files
+.idea/
+.vscode/
